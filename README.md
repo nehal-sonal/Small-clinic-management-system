@@ -9,12 +9,12 @@ Introducing the Clinic manager system , a simple Command-Line application built 
 4.Search by Name: Find patients by their names irrespective of the case insensitive.
 5.Add Appointment: Recording appointments for patients.
 6.Add History Note:Add medical history to a patient's record for doctor's reference.
-7.Edit Patient Details: Updating a patient's Name, Age, or Gender i entered incorrectly.
+7.Edit Patient Details: Updating a patient's Name, Age, or Gender entered incorrectly.
 8.Delete Record: Removing of a patient's record from the database if the patient has been logged out.
 9.Clear All Records: Deletion of the entire inputted data.
 10.Show Statistics: statistics of the patient population including total, male, and female counts.
 
- 🛠️ How It Works : The system stores all patient data in a file named `patients.txt`. Each patient record is displayed in a single line, with the different types of data separated by (|).
+ 🛠️ How It Works : The system stores all patient data in a file named (patients.txt). Each patient record is displayed in a single line, with the different types of data separated by (|).
 
 | Field Index | Data Stored | Example Data |
 | [0] | Patient ID | 11 |
@@ -31,8 +31,8 @@ The Python functions handle opening, reading, writing, and closing the file to p
 *Required condition : You only need Python 3 installed on your system.
 
 *Running the Application :
-1.  Save the Code: Save the Python code as a file named smalclinicmanager.py .
-2.  Run from Command Line Interface: Open your terminal or command prompt, navigate to the directory where you saved the file, and run: smalclinicmanager.py
+1.  Save the Code: Save the Python code as a file named smalclinic.py .
+2.  Run from Command Line Interface: Open your terminal or command prompt, navigate to the directory where you saved the file, and run: smalclinic.py
 3.  Use the Menu: The program will start and present a menu.Simply enter the corresponding choice to the action you want to perform (e.g., `1` to add a patient).
 
 📝 Patient Record Structure Example :
