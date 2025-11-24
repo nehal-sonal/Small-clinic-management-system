@@ -55,7 +55,7 @@ You only need **Python 3** installed on your system.
     python clinic_manager.py
     ```
 
-3.  **Use the Menu:** The program will start and present a menu. Simply enter the number corresponding to the action you want to perform (e.g., `1` to add a patient).
+3.  **Use the Menu:** The program will start and present a menu. Simply enter the corresponding choice to the action you want to perform (e.g., `1` to add a patient).
 
 ---
 
